@@ -1,0 +1,10 @@
+---Print---
+(A8A,1),(B19,6),(C7C,3),(D28,4),(E6E,5),(F3F,6),(G5F,6)
+---F1---
+2
+---F2---
+Before Deleting: (A8A,1),(B19,6),(C7C,3),(D28,4),(E6E,5),(F3F,6),(G5F,6)
+After Deleting: (A8A,1),(B19,6),(C7C,3),(D28,4),(E6E,5),(G5F,6)
+---F2---
+Before Sorting: (A8A,1),(B19,6),(C7C,3),(D28,4),(E6E,5),(G5F,6)
+After Sorting: (B19,6),(D28,4),(G5F,6),(E6E,5),(C7C,3),(A8A,1)

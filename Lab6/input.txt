@@ -1,0 +1,12 @@
+11
+Cala A8A 1
+Cala B19 6
+Cala C7C 3
+Cala D28 4
+Cala E6E 5
+Cala F3F 6
+Cala G5F 6
+Print
+F1
+F2
+F3
